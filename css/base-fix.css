@@ -1,0 +1,18 @@
+#regEndowmentCotribute, #regEndowmentTogo {
+	font-size: 26px;
+	padding-bottom: 12px;
+}
+
+.info {
+bottom:1px;
+}
+.info a {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border:none;
+    text-decoration:none;
+}
+.growthOpt {
+padding:12px 2px;
+}
